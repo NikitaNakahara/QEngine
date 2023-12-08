@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikita/Рабочий стол/dev-cpp/QEngine/src/QMD/src/qmd_factory.cpp
+
+/home/nikita/Рабочий стол/dev-cpp/QEngine/src/QMD/src/qmd_parser.cpp
+

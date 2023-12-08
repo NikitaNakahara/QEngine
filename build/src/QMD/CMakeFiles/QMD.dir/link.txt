@@ -1,0 +1,2 @@
+/usr/bin/ar qc libQMD.a  CMakeFiles/QMD.dir/src/qmd_factory.cpp.o CMakeFiles/QMD.dir/src/qmd_parser.cpp.o
+/usr/bin/ranlib libQMD.a

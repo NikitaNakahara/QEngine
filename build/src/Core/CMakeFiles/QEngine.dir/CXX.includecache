@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/QMD/include/QMD/qmd.hpp
+string
+-
+fstream
+-
+
+/home/nikita/Рабочий стол/dev-cpp/QEngine/src/Core/src/main.cpp
+iostream
+-
+QMD/qmd.hpp
+-
+

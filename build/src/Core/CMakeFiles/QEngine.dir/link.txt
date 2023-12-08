@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/QEngine.dir/src/main.cpp.o  -o QEngine  ../QMD/libQMD.a 
